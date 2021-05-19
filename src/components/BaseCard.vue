@@ -1,5 +1,7 @@
 <template>
-  <div class="flex flex-col p-4 m-4 rounded-md w-5/5 md:flex-row md:w-auto md:max-w-xl bg-mainRed">
+  <div
+    class="flex flex-col max-h-full p-4 m-4 rounded-md w-5/5 md:flex-row md:w-auto md:max-w-xl bg-mainRed"
+  >
     <img
       class="object-scale-down w-full md:w-36 md:mr-4"
       src="@/assets/img/project-portfolio.png"

@@ -1,13 +1,11 @@
 <template>
-  <div
-    class="flex flex-col p-4 m-4 rounded-md max-h-96 w-5/5 md:flex-row md:w-auto md:max-w-xl bg-mainRed"
-  >
+  <div class="flex flex-col p-4 m-4 rounded-md w-5/5 md:flex-row md:w-auto md:max-w-xl bg-mainRed">
     <img
       class="object-scale-down w-full md:w-36 md:mr-4"
       src="@/assets/img/project-portfolio.png"
       alt="Andreas Schwarz"
     />
-    <div class="flex flex-col justify-between">
+    <div class="flex flex-col justify-between max-h-96">
       <div>
         <p class="pt-4 text-xl leading-6 text-black md:pt-0">Personal Portfolio</p>
         <p class="pt-4 text-sm text-mainText">

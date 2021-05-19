@@ -1,11 +1,16 @@
 <template>
   <section>
-    <h3>My Projects</h3>
+    <h3 class="text-xl font-bold leading-10 text-center text-mainText">My Projects</h3>
+    <BaseCard />
   </section>
 </template>
 
 <script>
+import BaseCard from "@/components/BaseCard";
 export default {
-  name: "MainProjects"
+  name: "MainProjects",
+  components: {
+    BaseCard
+  }
 };
 </script>

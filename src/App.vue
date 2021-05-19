@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex flex-col items-center justify-start h-screen border-8 border-mainRed bg-mainBlue"
+    class="flex flex-col items-center justify-start min-h-screen border-8 border-mainRed bg-mainBlue"
   >
     <div class="w-full">
       <TheHeader />

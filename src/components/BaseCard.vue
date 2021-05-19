@@ -5,7 +5,7 @@
       src="@/assets/img/project-portfolio.png"
       alt="Andreas Schwarz"
     />
-    <div class="flex flex-col justify-between max-h-96">
+    <div class="flex flex-col max-h-96">
       <div>
         <p class="pt-4 text-xl leading-6 text-black md:pt-0">Personal Portfolio</p>
         <p class="pt-4 text-sm text-mainText">
